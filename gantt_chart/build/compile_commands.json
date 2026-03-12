@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/colli/Documents/GitHub/gantt_chart/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang.exe -IC:/Users/colli/Documents/GitHub/gantt_chart/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\gantt_chart.dir\\src\\main.c.obj -c C:\\Users\\colli\\Documents\\GitHub\\gantt_chart\\src\\main.c",
+  "file": "C:/Users/colli/Documents/GitHub/gantt_chart/src/main.c",
+  "output": "C:/Users/colli/Documents/GitHub/gantt_chart/build/CMakeFiles/gantt_chart.dir/src/main.c.obj"
+},
+{
+  "directory": "C:/Users/colli/Documents/GitHub/gantt_chart/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang.exe -IC:/Users/colli/Documents/GitHub/gantt_chart/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\gantt_chart.dir\\src\\draw.c.obj -c C:\\Users\\colli\\Documents\\GitHub\\gantt_chart\\src\\draw.c",
+  "file": "C:/Users/colli/Documents/GitHub/gantt_chart/src/draw.c",
+  "output": "C:/Users/colli/Documents/GitHub/gantt_chart/build/CMakeFiles/gantt_chart.dir/src/draw.c.obj"
+},
+{
+  "directory": "C:/Users/colli/Documents/GitHub/gantt_chart/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang.exe -IC:/Users/colli/Documents/GitHub/gantt_chart/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\gantt_chart.dir\\src\\read.c.obj -c C:\\Users\\colli\\Documents\\GitHub\\gantt_chart\\src\\read.c",
+  "file": "C:/Users/colli/Documents/GitHub/gantt_chart/src/read.c",
+  "output": "C:/Users/colli/Documents/GitHub/gantt_chart/build/CMakeFiles/gantt_chart.dir/src/read.c.obj"
+},
+{
+  "directory": "C:/Users/colli/Documents/GitHub/gantt_chart/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang.exe -IC:/Users/colli/Documents/GitHub/gantt_chart/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\gantt_chart.dir\\src\\task.c.obj -c C:\\Users\\colli\\Documents\\GitHub\\gantt_chart\\src\\task.c",
+  "file": "C:/Users/colli/Documents/GitHub/gantt_chart/src/task.c",
+  "output": "C:/Users/colli/Documents/GitHub/gantt_chart/build/CMakeFiles/gantt_chart.dir/src/task.c.obj"
+}
+]
